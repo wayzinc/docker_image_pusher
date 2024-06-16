@@ -1,1 +1,4 @@
-xijinping615/xi-jinping-tts
+portainer/portainer
+fauria/vsftpd
+mariadb
+openresty/openresty
