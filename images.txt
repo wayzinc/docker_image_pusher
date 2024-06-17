@@ -3,3 +3,4 @@ fauria/vsftpd
 mariadb
 openresty/openresty
 mcr.microsoft.com/dotnet/sdk
+mcr.microsoft.com/dotnet/aspnet
