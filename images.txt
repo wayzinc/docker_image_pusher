@@ -2,3 +2,4 @@ portainer/portainer
 fauria/vsftpd
 mariadb
 openresty/openresty
+mcr.microsoft.com/dotnet/sdk
