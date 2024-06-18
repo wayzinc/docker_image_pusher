@@ -1,5 +1,5 @@
 portainer/portainer
 fauria/vsftpd
-mariadb
-openresty/openresty
+mariadb:10.11
+openresty/openresty:1.21.4.1-0-alpine
 mcr.microsoft.com/dotnet/aspnet:7.0
