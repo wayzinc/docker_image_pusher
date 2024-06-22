@@ -3,4 +3,6 @@ fauria/vsftpd
 mariadb:10.11
 openresty/openresty:1.21.4.1-0-alpine
 mcr.microsoft.com/dotnet/aspnet:7.0
+mcr.microsoft.com/dotnet/aspnet:8.0
 redis
+rabbitmq
