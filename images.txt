@@ -14,3 +14,4 @@ xuxueli/xxl-job-admin:2.4.0
 mysql:8.0
 registry
 ollama/ollama
+lobehub/lobe-chat
