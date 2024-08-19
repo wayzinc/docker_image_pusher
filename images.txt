@@ -15,3 +15,4 @@ mysql:8.0
 registry
 ollama/ollama
 lobehub/lobe-chat
+minio/minio
