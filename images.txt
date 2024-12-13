@@ -18,3 +18,4 @@ lobehub/lobe-chat
 minio/minio
 programzmh/chatnio
 xuxueli/xxl-job-admin:2.4.0
+openjdk:8u131
