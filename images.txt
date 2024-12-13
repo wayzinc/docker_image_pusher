@@ -1,6 +1,7 @@
 portainer/portainer
 fauria/vsftpd
 mariadb:10.11
+mariadb:10.4
 openresty/openresty:1.21.4.1-0-alpine
 mcr.microsoft.com/dotnet/aspnet:7.0
 mcr.microsoft.com/dotnet/aspnet:8.0
@@ -17,5 +18,4 @@ ollama/ollama
 lobehub/lobe-chat
 minio/minio
 programzmh/chatnio
-xuxueli/xxl-job-admin:2.4.0
 openjdk:8u131-jdk-alpine
