@@ -19,3 +19,4 @@ programzmh/chatnio
 openjdk:8u131-jdk-alpine
 elasticsearch:7.16.3
 openjdk:17-jdk-alpine
+ibm-semeru-runtimes:open-17-jre-focal
