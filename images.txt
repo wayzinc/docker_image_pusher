@@ -7,7 +7,6 @@ mcr.microsoft.com/dotnet/aspnet:7.0
 mcr.microsoft.com/dotnet/aspnet:8.0
 redis
 mongo
-rabbitmq:3-management
 sonatype/nexus3
 jonnyan404/mrdoc-nginx
 xuxueli/xxl-job-admin:2.4.0
